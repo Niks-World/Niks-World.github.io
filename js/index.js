@@ -8,7 +8,7 @@ resumeLink.addEventListener("click", function (event) {
   let link = document.createElement("a");
   link.href =
     "https://drive.google.com/uc?export=download&id=1yHXIX5v7OTM4GDi4pu0Tr-MMG3LiTM7G";
-  link.download = "Hasbe-Alam-Resume";
+  link.download ="Nikhil-Singh-Resume";
   link.click();
 });
 
@@ -22,6 +22,6 @@ resumeLink.addEventListener("click", function (event) {
   let link = document.createElement("a");
   link.href =
     "https://drive.google.com/uc?export=download&id=1yHXIX5v7OTM4GDi4pu0Tr-MMG3LiTM7G";
-  link.download = "Hasbe-Alam-Resume";
+  link.download ="Nikhil-Singh-Resume";
   link.click();
 });
